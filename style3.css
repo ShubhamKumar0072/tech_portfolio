@@ -620,7 +620,7 @@
       font-size: 21px;
    }
    .activeCard{
-      left: 12%;
+      left: 18%;
       top: 15%;
       width: 70px;
       height: 70px;
@@ -629,10 +629,10 @@
       border-radius: 20px;
       left: 20px;
       height: 440px;
-      width: 36vh;
+      width: 40vh;
    }
    .disp>p{
-      font-size: 15px;
+      font-size: 14.5px;
    }
    .disp-butt>h4{
       font-size: 25px;
@@ -686,17 +686,20 @@
    }
 }
 
-@media(max-width:378px){
+/* @media(max-width:378px){
    .activeCard{
       left: 14%;
    }
    .activeCard>.disp{
       border-radius: 20px;
       left: 20px;
-      height: 440px;
-      width: 45vh;
+      height: 450px;
+      width: 39vh;
    }
-}
+   .disp>p{
+      font-size: 14.5px;
+   }
+} */
 
 @media(max-width:376px){
    .activeCard{
