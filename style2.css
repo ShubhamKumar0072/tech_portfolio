@@ -1,0 +1,76 @@
+/* Styling For Card When it is Clicked */
+
+.activeCard{
+   z-index:5 ;
+   position: fixed;
+   top: 50%;
+   left: 27%;
+   transform: translate(-50%, -50%);
+   box-shadow: 0 0  15px #332a36;
+   background-size: cover;
+   border-radius: 25px;
+   width: 270px;
+   height: 400px;
+   animation: fadeIn 0.5s ease-out forwards;
+}
+
+.stop-scrolling {
+   height: 100%;
+   overflow: hidden;
+}
+
+.activeCard>img{
+   display: none;
+}
+.activeCard>h2{
+display: none;
+}
+.activeCard>h3{
+display: none;
+}
+.activeCard>.disp{
+   position: relative;
+   width: 80vh;
+   height: 340px;
+   left: 270px;
+   top: 20px;
+   padding: 10px;
+}
+.disp{
+   border-left: 0;
+   border-top-right-radius: 25px;
+   border-bottom-right-radius: 25px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   box-shadow: 5px 0  15px #332a36;
+}
+.disp>p{
+   margin: 0px;
+   font-family: "Ledger", serif;
+   font-size: 16px; 
+}
+.disp-butt{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.disp-butt>h4{
+   margin: 5px;
+   font-family: "Shafarik", serif;
+   font-size: 30px;
+}
+
+.disp-butt img{
+   height: 37px;
+   margin-right: 10px;
+}
+
+
+@keyframes fadeIn{
+   0%{
+      scale: 0.8;
+   }100%{
+      scale: 1;
+   }
+}

@@ -1,0 +1,705 @@
+/* This file Make this web Page Responsive */
+
+@media(max-width:1020px){
+   .intro>h1{
+      font-size: 70px;
+   }
+   .t2>span{
+      font-size: 28px;
+   }
+   .t1{
+      font-size: 22px;
+   }
+   .t2{
+      font-size: 22px;
+   }
+   .t3{
+      font-size: 20px;
+   }
+
+   .cr2{
+      width: 83%;
+   }
+   .img1>img{
+      height: 300px;
+   }
+
+   .about{
+      padding-top:2rem;
+   }
+   .pic>img{
+      height: 500px;
+   }
+   .aboutwrite{
+      width: 50%;
+   }
+   .t4{
+      font-size: 20px;
+   }
+   .t5{
+      font-size: 35px;
+   }
+   .t6{
+      font-size: 15px;
+   }
+
+
+   .projects>h1{
+      font-size: 40px;
+      margin: 8px;
+      margin-top: 15px;
+   }
+   .projects>p{
+      width: 70%;
+      margin: 8px;
+      font-size: 16px;
+   }
+   .proCards{
+      width: 230px;
+   }
+   .proCards>img{
+      width: 230px;
+      height: 230px;
+   }
+   .proCards>h2{
+      font-size: 25px;
+   }
+   .proCards>h3{
+      font-size: 20px;
+   }
+   .activeCard{
+      left: 25%;
+   }
+
+
+   .contain{
+      width: 85%;
+   }
+   .forms>h1{
+      font-size: 30px;
+   }
+}
+
+
+
+
+
+@media(max-width: 950px){
+    
+
+   .intro>h1{
+      font-size: 60px;
+      line-height: 70px;
+   }
+   .t2>span{
+      font-size: 22px;
+   }
+   .t1{
+      font-size: 22px;
+   }
+   .t2{
+      font-size: 20px;
+   }
+   .t3{
+      font-size: 20px;
+   }
+
+   .cr2{
+      width: 83%;
+   }
+   .img1>img{
+      height: 280px;
+   }
+
+   .about{
+      padding-top:2rem;
+   }
+   .pic>img{
+      height: 450px;
+   }
+   .aboutwrite{
+      width: 55%;
+   }
+   .t4{
+      font-size: 20px;
+   }
+   .t5{
+      font-size: 35px;
+   }
+   .t6{
+      font-size: 15px;
+   }
+
+
+   .projects>h1{
+      font-size: 40px;
+      margin: 8px;
+      margin-top: 15px;
+   }
+   .projects>p{
+      width: 70%;
+      margin: 8px;
+      font-size: 16px;
+   }
+   .proCards{
+      width: 230px;
+   }
+   .proCards>img{
+      width: 230px;
+      height: 230px;
+   }
+   .proCards>h2{
+      font-size: 25px;
+   }
+   .proCards>h3{
+      font-size: 20px;
+   }
+   .activeCard{
+      left: 22%;
+   }
+
+
+   .contain{
+      width: 95%;
+   }
+   .forms>h1{
+      font-size: 30px;
+   }
+   .form-group>textarea{
+      height: 5rem;
+   }
+}
+
+@media(max-width:880px){
+   .cr2{
+      width: 87%;
+   }
+   .pic>img{
+      height: 400px;
+   }
+}
+
+@media(max-width: 820px){
+    
+
+   .intro>h1{
+      font-size: 53px;
+      line-height: 60px;
+   }
+   .t2>span{
+      font-size: 18px;
+   }
+   .t1{
+      font-size: 18px;
+      left: 3px;
+   }
+   .t2{
+      font-size: 17px;
+   }
+   .t3{
+      font-size: 17px;
+   }
+
+   .cr2{
+      background-color: transparent;
+      box-shadow: none;
+      width: 83%;
+   }
+   .img1>img{
+      height: 300px;
+   }
+
+   .about{
+      padding-top:2rem;
+   }
+   .pic{
+      display: none;
+   }
+   .aboutwrite{
+      width: 80%;
+   }
+   .t4{
+      font-size: 20px;
+   }
+   .t5{
+      font-size: 40px;
+   }
+   .t6{
+      font-size: 18px;
+   }
+
+
+   .Edu{
+      width: 85%;
+   }
+   .head>img{
+      height: 50px;
+   }
+   .head>h1{
+      font-size: 22px;
+   }
+   .place>p{
+      font-size: 12px;
+   }
+   .place>h1{
+      font-size: 17px;
+   }
+
+
+   .projects>h1{
+      font-size: 35px;
+      margin: 8px;
+      margin-top: 15px;
+   }
+   .projects>p{
+      width: 70%;
+      margin: 8px;
+      font-size: 16px;
+   }
+   .proCards{
+      width: 220px;
+   }
+   .proCards>img{
+      width: 220px;
+      height: 220px;
+   }
+   .proCards>h2{
+      font-size: 22px;
+   }
+   .proCards>h3{
+      font-size: 18px;
+   }
+   .activeCard{
+      left: 22%;
+      width: 250px;
+      height: 350px;
+   }
+   .activeCard>.disp{
+      left: 250px;
+      height: 280px;
+      width: 70vh;
+   }
+   .disp>p{
+      font-size: 14.5px;
+   }
+   .disp-butt>h4{
+      font-size: 25px;
+   }
+   .disp-butt img{
+      height: 32px;
+   }
+
+
+   .contain{
+      width: 98%;
+   }
+   .forms>h1{
+      font-size: 25px;
+   }
+   .forms>p{
+      font-size: 17px;
+   }
+   .form-group>textarea{
+      height: 4.5rem;
+   }
+   #mail{
+      font-size: 14px;
+   }
+}
+
+
+@media(max-width:660px){
+
+   .intro>h1{
+      font-size: 45px;
+      line-height: 52px;
+   }
+   .t2>span{
+      font-size: 18px;
+   }
+   .t1{
+      font-size: 18px;
+      left: 3px;
+   }
+   .t2{
+      font-size: 15px;
+   }
+   .t3{
+      font-size: 15px;
+   }
+
+   .cr2{
+      background-color: transparent;
+      box-shadow: none;
+      width: 83%;
+   }
+   .cr1{
+      background-color: transparent;
+      box-shadow: none;
+   }
+   .img1>img{
+      height: 240px;
+      border-radius: 25px;
+   }
+
+   .about{
+      padding-top:2rem;
+   }
+   .pic{
+      display: none;
+   }
+   .aboutwrite{
+      width: 90%;
+   }
+   .t4{
+      font-size: 18px;
+   }
+   .t5{
+      font-size: 32px;
+   }
+   .t6{
+      font-size: 15px;
+   }
+   .hello{
+      width: 90px;
+      height: 30px;
+      font-size: 12px;
+   }
+
+
+   .Edu{
+      flex-wrap: wrap;
+      width: 85%;
+      padding: 0.6rem;
+   }
+   .block2{
+      width: 250px;
+   }
+   .head>img{
+      height: 40px;
+   }
+   .head>h1{
+      font-size: 20px;
+   }
+   .place>p{
+      font-size: 12px;
+   }
+   .place>h1{
+      font-size: 17px;
+   }
+
+
+   .projects>h1{
+      font-size: 35px;
+      margin: 8px;
+      margin-top: 15px;
+   }
+   .projects>p{
+      width: 70%;
+      margin: 8px;
+      font-size: 16px;
+   }
+   .proCards{
+      width: 220px;
+   }
+   .proCards>img{
+      width: 220px;
+      height: 220px;
+   }
+   .proCards>h2{
+      font-size: 22px;
+   }
+   .proCards>h3{
+      font-size: 18px;
+   }
+   .activeCard{
+      left: 19%;
+      top: 15%;
+      width: 0px;
+      height: 0px;
+   }
+   .activeCard>.disp{
+      border-radius: 20px;
+      left: 0px;
+      height: 400px;
+      width: 60vh;
+   }
+   .disp>p{
+      font-size: 16px;
+   }
+   .disp-butt>h4{
+      font-size: 30px;
+   }
+   .disp-butt img{
+      height: 40px;
+   }
+
+   .connect{
+      height: auto;
+   }
+   .contain{
+      width: 95%;
+      height: 95%;
+      flex-direction: column;
+      align-items: center;
+   }
+   .links{
+      z-index: 2;
+      flex-direction: row;
+      width: 95%;
+      height:30%;
+      left: 0rem;
+      top: 1rem;
+      box-shadow: 0px 0px 15px black;
+   }
+   .forms{
+      width: 95%;
+      right: 0;
+      height: 56.4%;
+      box-shadow: none;
+      box-shadow: 0px 0px 5px black;
+      margin-bottom: 20px;
+   }
+   .forms>h1{
+      margin-top: 30px;
+      font-size: 25px;
+   }
+   .forms>p{
+      font-size: 17px;
+   }
+   .form-group>textarea{
+      height: 4.5rem;
+   }
+   #mail{
+      font-size: 14px;
+   }
+}
+
+
+
+
+@media(max-width:415px){
+   .home{
+      padding-top: 1rem;
+      flex-direction: column;
+   }
+   .navbar{
+      display: none;
+   }
+   .intro{
+      width: 95%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   }
+   .intro>h1{
+      text-align: center;
+      font-size: 38px;
+      line-height: 52px;
+      text-shadow: 2px 2px 5px #340045;
+   }
+   .t2>span{
+      font-size: 18px;
+   }
+   .t1{
+      font-size: 18px;
+      left: 3px;
+   }
+   .t2{
+      font-size: 15px;
+   }
+   .t3{
+      font-size: 15px;
+      text-align: center;
+   }
+
+   .img1>img{
+      height: 240px;
+      border-radius: 25px;
+   }
+
+   .about{
+      padding-top:0rem;
+   }
+   .pic{
+      display: none;
+   }
+   .aboutwrite{
+      width: 90%;
+   }
+   .t4{
+      font-size: 18px;
+   }
+   .t5{
+      font-size: 25px;
+      margin: 10px;
+      line-height: 40px;
+   }
+   .t6{
+      font-size: 13.5px;
+      line-height: 19px;
+   }
+   .hello{
+      width: 90px;
+      height: 30px;
+      font-size: 12px;
+   }
+
+
+   #Edu{
+      height: 0;
+   }
+   .Edu{
+      flex-wrap: wrap;
+      width: 85%;
+      padding: 0.6rem;
+      border-radius: 20px;
+      gap: 1rem;
+   }
+   .block2{
+      width: 350px;
+   }
+
+   .head>img{
+      height: 45px;
+      margin-left: 10px;
+   }
+   .head>h1{
+      font-size: 22px;
+   }
+   .place>p{
+      font-size: 12px;
+   }
+   .place>h1{
+      font-size: 17px;
+   }
+
+   #projects{
+      height: 1rem;
+   }
+   .projects>h1{
+      font-size: 30px;
+      margin: 5px;
+      margin-top: 15px;
+   }
+   .projects>p{
+      width: 90%;
+      margin: 8px;
+      font-size: 15px;
+   }
+   .proBox{
+      flex-direction: column;
+      gap: 1rem;
+      padding-top: 1rem;
+   }
+   .proCards:not(:first-child){
+      margin-left: 0px;
+   }
+   .proCards:hover{
+      transform: translateY(0px);
+      scale: 1.03;
+      transition: 0.4s ease-out;
+      /* transform: translateX(-20px); */
+   }
+   .proCards:hover ~ .proCards{
+      left: 0px;
+      transition: 0.4s ease-out;
+   }
+   .proCards{
+      box-shadow: 0 0  10px #332a36;
+      width: 250px;
+   }
+   .proCards>img{
+      width: 250px;
+      height: 250px;
+   }
+   .proCards>h2{
+      font-size: 25px;
+   }
+   .proCards>h3{
+      font-size: 21px;
+   }
+   .activeCard{
+      left: 12%;
+      top: 15%;
+      width: 70px;
+      height: 70px;
+   }
+   .activeCard>.disp{
+      border-radius: 20px;
+      left: 20px;
+      height: 440px;
+      width: 36vh;
+   }
+   .disp>p{
+      font-size: 15px;
+   }
+   .disp-butt>h4{
+      font-size: 25px;
+   }
+   .disp-butt img{
+      height: 35px;
+   }
+
+
+.gameZone{
+   padding: 0;
+}
+
+   .connect{
+      height: auto;
+   }
+   .contain{
+      width: 95%;
+      height: 95%;
+      flex-direction: column;
+      align-items: center;
+   }
+   .links{
+      z-index: 1;
+      flex-direction: column;
+      width: 95%;
+      height:30%;
+   }
+   .links>img{
+      margin: 0;
+      margin-top: 25px;
+   }
+   .forms{
+      z-index: 0;
+      width: 95%;
+      right: 0;
+      height: 56.4%;
+   }
+   .forms>h1{
+      font-size: 25px;
+      margin-top: 25px;
+   }
+   .forms>p{
+      font-size: 17px;
+   }
+   .form-group>textarea{
+      height: 4.5rem;
+   }
+   #mail{
+      font-size: 14px;
+   }
+}
+
+@media(max-width:378px){
+   .activeCard{
+      left: 14%;
+   }
+   .activeCard>.disp{
+      border-radius: 20px;
+      left: 20px;
+      height: 440px;
+      width: 45vh;
+   }
+}
+
+@media(max-width:376px){
+   .activeCard{
+      left: 11%;
+   }
+}
